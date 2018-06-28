@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  background: url('img/back2.jpeg');
+}
+
+#login-buttons a,
+.accounts-dialog {
+  cursor: pointer;
+  text-decoration: none;
+}
+.fill-viewport {
+  min-height: 100vh;
+}
+.text-white-70 {
+  color: rgba(255, 255, 255, 0.7);
+}
+#showcase {
+  padding-top: 150px;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  font-size: 28px;
+}
